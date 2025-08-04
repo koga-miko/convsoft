@@ -1,0 +1,7 @@
+[package]
+name = "json2yaml"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+conv_common = { path = "../conv_common"}

@@ -1,0 +1,2 @@
+[workspace]
+members = ["conv_common", "json2yaml", "yaml2json"]
